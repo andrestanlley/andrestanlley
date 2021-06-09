@@ -1,5 +1,5 @@
 ## Sobre :crystal_ball:
-Atualmente tenho 22 anos, estudante de Ciências Contábeis na UERN (Universidade do Estado do Rio Grande do Norte), sempre fui apaixonado por tecnologia e já me envolvi em vários projetos na área, comecei a estudar desenvolvimento para facilitar tarefas do meu dia a dia e agora estou me aprofundando em outras linguagens.
+Tenho 22 anos, estudante de Ciências Contábeis na UERN (Universidade do Estado do Rio Grande do Norte), sempre fui apaixonado por tecnologia e já me envolvi em vários projetos na área, comecei a estudar desenvolvimento para facilitar tarefas do meu dia a dia e agora estou me aprofundando em outras linguagens.
 
 ## Tecnologias :sparkles:
 
