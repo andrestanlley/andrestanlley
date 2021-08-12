@@ -1,5 +1,5 @@
 ## Sobre :crystal_ball:
-Tenho 22 anos, estudante de Ciências Contábeis na Universidade do Estado do Rio Grande do Norte (UERN), sempre fui apaixonado por tecnologia e já me envolvi em vários projetos dentro dessa área, comecei a estudar programação para facilitar tarefas diárias e agora estou me aprofundando em outras linguagens para conseguir desenvolver projetos maiores.
+Potiguar. 22 anos. Graduando em Ciências Contábeis, pela Universidade do Estado do Rio Grande do Norte - UERN. Sempre fui apaixonado por tecnologia e já me envolvi em vários projetos dentro dessa área. Comecei a estudar programação para facilitar tarefas diárias, e agora estou me aprofundando em outras linguagens para conseguir desenvolver projetos maiores.
 
 ## Tecnologias :sparkles:
 
@@ -8,8 +8,8 @@ Back - End | Python3 <img src="https://cdn.pling.com/cache/400x400/img//hive/con
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrestanlley&layout=compact&theme=tokyonight)](https://github.com/andrestanlley/github-readme-stats)
 
 * Certificados<br>
-[Python](https://github.com/andrestanlley/andrestanlley/blob/main/Andre-Stanlley-Python-3.pdf)<br>
-[HTML/CSS](https://github.com/andrestanlley/andrestanlley/blob/main/Andre-Stanlley-HTML5-e-CSS3.pdf)<br>
+[Python](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=346DF-685A-2)<br>
+[HTML/CSS](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=346DF-DB40-8)<br>
 JavaScript - Em andamento
 #### Desejo aprender :fire:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="NodeJS logo" height=25>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" height=30>&nbsp;&nbsp;&nbsp;<img src="https://www.neonexus.com.br/wp-content/uploads/2018/01/php7-transparent.png" alt="php logo" height=30><br>
