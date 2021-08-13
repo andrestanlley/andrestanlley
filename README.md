@@ -10,7 +10,7 @@ Back - End | Python3 <img src="https://cdn.pling.com/cache/400x400/img//hive/con
 * Certificados<br>
 [Python](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=346DF-685A-2)<br>
 [HTML/CSS](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=346DF-DB40-8)<br>
-JavaScript - Em andamento
+[JavaScript](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=%20346DF-6C61-5)<br>
 #### Desejo aprender :fire:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="NodeJS logo" height=25>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" height=30>&nbsp;&nbsp;&nbsp;<img src="https://www.neonexus.com.br/wp-content/uploads/2018/01/php7-transparent.png" alt="php logo" height=30><br>
 ## Fale comigo :calling:
