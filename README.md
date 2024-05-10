@@ -10,9 +10,6 @@ Sempre fui apaixonado por tecnologia e gosto de criar projetos pessoais e partic
 ## Tecnologias :sparkles:
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrestanlley&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/andrestanlley/github-readme-stats)
 
-## Saiba mais
-* [andrestanlley.com](https://andrestanlley.com)
-
 ## Fale comigo :calling:
 * [Email](mailto:stanlley41@gmail.com)
 * [Linkedin](https://linkedin.com/in/andrestanlley)
